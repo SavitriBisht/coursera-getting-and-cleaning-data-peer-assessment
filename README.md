@@ -1,7 +1,7 @@
 # coursera-getting-and-cleaning-data-peer-assessment
 
 What is this?
-This is a repository with the code for the peer assesment required on the Coursera course Getting and Cleaning Data
+This is a repository with the code for the peer  assessment required on the Coursera course Getting and Cleaning Data
 
 What is the data
 The data used on this script can be found here.
@@ -25,5 +25,5 @@ Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
 Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive activity names.
-Creates a independent tidy data set which is called tidy.cs vwith the average of each variable for each activity and each subject.
+Creates a independent tidy data set which is called tidy.cs v with the average of each variable for each activity and each subject.
 Detailed information about generated datasets can be found on the CodeBook.md file.
