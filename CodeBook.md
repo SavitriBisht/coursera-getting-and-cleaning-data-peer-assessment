@@ -30,3 +30,28 @@ For the script to work you need to put the UCI HAR Dataset on your R working dir
 It creates a tidy.csv which contains the average of each variable for each activity and each subject.
 
 The datasets will be saved on your working directory.
+
+
+#Variables
+
+variables are just the calculatd means and standard deviations of these sets of data - one each for the X, Y and Z dimensions:
+
+tBodyAcc-X
+
+tBodyAcc-Y
+
+tBodyAcc-Z
+
+tBodyGyro-X
+
+tBodyGyro-Y
+
+tBodyGyro-Z
+
+Each of these has a mean and standard deviation version. Examples:
+
+tBodyAcc-mean()-X: Mean of base body acceleration data in the X dimension
+
+tBodyGyro-std()-Y: Standard deviation of base body gyroscope measurement in the Y dimension
+
+
